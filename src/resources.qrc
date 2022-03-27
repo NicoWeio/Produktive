@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">contents/ui/main.qml</file>
+        <file alias="Dashboard.qml">contents/ui/Dashboard.qml</file>
+        <file alias="KountdownDelegate.qml">contents/ui/KountdownDelegate.qml</file>
+        <file alias="TopAppsPage.qml">contents/ui/TopAppsPage.qml</file>
+    </qresource>
+</RCC>
